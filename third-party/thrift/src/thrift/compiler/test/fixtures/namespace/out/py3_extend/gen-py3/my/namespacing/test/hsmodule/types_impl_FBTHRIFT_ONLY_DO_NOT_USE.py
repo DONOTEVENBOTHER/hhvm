@@ -14,3 +14,4 @@ _fbthrift__module_name__ = "my.namespacing.test.hsmodule.types"
 
 
 
+import password
